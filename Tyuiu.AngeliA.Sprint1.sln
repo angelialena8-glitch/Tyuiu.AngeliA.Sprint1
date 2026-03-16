@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AngeliA.Sprint1.Task0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AngeliA.Sprint1.Task0.V15.Test", "Tyuiu.AngeliA.Sprint1.Task0.V15.Test\Tyuiu.AngeliA.Sprint1.Task0.V15.Test.csproj", "{E04B95A6-EDC8-40DA-A891-B356EB546F6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AngeliA.Sprint1.Task0.V15", "Tyuiu.AngeliA.Sprint1.Task0.V15\Tyuiu.AngeliA.Sprint1.Task0.V15.csproj", "{EC40AC2E-017C-46ED-9717-F3712FC8E9C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{E04B95A6-EDC8-40DA-A891-B356EB546F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E04B95A6-EDC8-40DA-A891-B356EB546F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E04B95A6-EDC8-40DA-A891-B356EB546F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC40AC2E-017C-46ED-9717-F3712FC8E9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC40AC2E-017C-46ED-9717-F3712FC8E9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC40AC2E-017C-46ED-9717-F3712FC8E9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC40AC2E-017C-46ED-9717-F3712FC8E9C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DE9B43B9-19F5-4A00-A21E-BE66ADA13418} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{E04B95A6-EDC8-40DA-A891-B356EB546F6B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{EC40AC2E-017C-46ED-9717-F3712FC8E9C0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {231447AC-E4A2-41EB-B0CC-E13FB01BABB6}
